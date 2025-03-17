@@ -1,0 +1,7 @@
+users:
+  - username: max
+    roles: [admin, developer]
+  - username: salt
+    roles: [readonly]
+  - username: abd
+    roles: [auditor]
